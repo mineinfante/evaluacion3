@@ -1,0 +1,72 @@
+body {
+  background-image: url(../imagenes/fondo_cocina.jpg);
+  background-color: #CCCCCC;
+  
+  background-attachment: fixed;
+
+  /*line-height: 1;
+  position: relative;
+  cursor: default;*/
+}
+
+.fondo {
+  background-color: #CCCCCC; opacity: 0.8;
+}
+
+.fondo2 {
+  background-color: #ffdab0;
+}
+
+.borde-derecha{
+  border-right: 1px solid gray;
+}
+
+.borde-abajo{
+  border-bottom: 1px solid gray;
+}
+
+.color-letra{
+  color: #303030;
+  border: 1px solid #bd204a;
+}
+
+.color2 {
+  color: #bd204a;
+}
+
+.iconos {
+	width: 60px;
+	height: 40px;
+  border-radius: 50px;
+}
+
+/*Border text*/
+.bordes{
+  border: 0.5px solid #8c8a8a;
+  border-radius: 10px;
+}
+
+.centrado{
+  vertical-align: middle;
+}
+
+.margen{
+  padding: 15px;
+}
+
+
+
+
+.bordes0{
+  border: 2px solid black;
+}
+
+.bordes1{
+  border: 2px solid blue;
+  padding: 10px;
+  padding-left: 50px;
+}
+
+.bordes2{
+  border: 2px solid green;
+}

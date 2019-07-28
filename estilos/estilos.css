@@ -1,0 +1,53 @@
+body {
+	background-color: #5929cf;
+}
+
+/***********************************************************/
+/*PARA CLASS*/
+
+.iconos {
+	width: 60px;
+	height: 40px;
+}
+
+.temas {
+	width: 100%;
+	background-color: #b9a5f8;
+}
+
+.container {
+	background-color: white;
+}
+
+.redes{
+	height: 100%;
+	float: right;
+}
+
+.redondeado_top {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.redondeado_bottom {
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.img_fotos {
+  width: 100%;
+	padding: 5px;
+	vertical-align: middle;
+}
+
+.input-group.md-form.form-sm.form-1 input{
+border: 1px solid #bdbdbd;
+border-top-right-radius: 0.25rem;
+border-bottom-right-radius: 0.25rem;
+}
+
+/***********************************************************/
+/*PARA ID*/
+
+/***********************************************************/
+/*PARA RESOLUCIÓN DE PANTALLA*/

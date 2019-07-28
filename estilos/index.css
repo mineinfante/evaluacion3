@@ -1,0 +1,80 @@
+body {
+	background-color: #448aff;
+	background-image: url(../imagenes/fondo_turismo.jpg);
+	background-color: transparent;
+	background-position: center top;
+	background-attachment: fixed;
+	background-size:cover;
+}
+
+h3, label, h4{
+	color: white !important;
+}
+
+
+/***********************************************************/
+/*PARA CLASS*/
+
+.header {
+	position: fixed;
+	width: 100%;
+	height: 100px;
+	z-index: -1;
+}
+
+.iconos {
+	width: 40px;
+	height: 40px;
+}
+
+.container {
+	background-color: transparent;
+}
+
+.fondo_texto {
+	background-color: white;
+}
+
+.margen {
+	padding: 1px;
+}
+
+.redes{
+	height: 100%;
+	float: right;
+}
+
+.redondeado {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.img_fotos {
+  width: 100%;
+	padding: 5px;
+	vertical-align: middle;
+}
+
+.img_fotos2 {
+  width: 200px;
+	max-height: 100%;
+	padding: 5px;
+}
+
+.icon-white {
+    color: white;
+}
+
+.bordes {
+	border: 0.5px solid red;
+	border-radius: 10px;
+}
+
+
+/***********************************************************/
+/*PARA ID*/
+
+/***********************************************************/
+/*PARA RESOLUCIÓN DE PANTALLA*/
